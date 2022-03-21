@@ -1,3 +1,2 @@
 New changes will overwrite the previous ones.
 More changes.
-Those are new lines of text.
